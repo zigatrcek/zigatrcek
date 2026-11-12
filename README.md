@@ -1,11 +1,7 @@
 # Žiga Trček
 
-Odoo engineer at [Implex](https://implex.si), based in Ljubljana, Slovenia.
+Odoo engineer at [Implex](https://implex.si). Based in Ljubljana, Slovenia. Mostly Python.
 
-I build and adapt Odoo ERP systems to support day-to-day business operations. My work covers custom modules, integrations, and automation, primarily in Python.
+I work on Odoo implementations, custom modules, integrations and automation. At Implex, we also handle support and upgrades.
 
-At Implex, we connect sales, purchasing, inventory, projects, and finance in Odoo, from implementation through ongoing support and upgrades.
-
-Most of my contributions are on a private GitLab instance, so my GitHub activity only shows part of my work.
-
-Interested in working with us? [Visit implex.si](https://implex.si).
+Most of my contributions are on a private GitLab instance, so you won’t see them here.
